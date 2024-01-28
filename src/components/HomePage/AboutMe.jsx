@@ -32,7 +32,7 @@ export default function AboutMe() {
         </div>
         <div className=" align-center col-span-4 flex flex-col items-center justify-center rounded-2xl border-2 border-[#ebebeb] bg-[#f1f0ee] p-1.5 text-center transition-all hover:p-0 hover:transition-all dark:bg-[#edeeef] dark:hover:border-[#171717] dark:hover:bg-[#edeeef] lg:col-span-2 2xl:col-span-2 3xl:col-span-1">
           <div className=" flex-wrap overflow-hidden rounded-xl p-1.5">
-            <img src={praveen} alt="asd" className="min-h-full w-full overflow-hidden rounded-xl" />
+            {/* <img src={praveen} alt="asd" className="min-h-full w-full overflow-hidden rounded-xl" /> */}
           </div>
         </div>
 
